@@ -1,1 +1,1 @@
-13 functions created and updated on 6/12/2017
+2 functions created and updated on 7/18/2017
