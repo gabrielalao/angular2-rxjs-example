@@ -1,1 +1,1 @@
-7 functions created and updated on 8/30/2017
+12 functions created and updated on 8/29/2017
